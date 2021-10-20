@@ -8,7 +8,6 @@ function resolve(dir) {
 module.exports = {
   configureWebpack: {
     plugins: [new webpack.IgnorePlugin(/^\.\/locale$/, /moment$/)],
-    // devtool: "source-map",
   },
 
   productionSourceMap: false,

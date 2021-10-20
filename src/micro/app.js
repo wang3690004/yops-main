@@ -6,16 +6,16 @@ const apps = [
    * activeRule: 微应用触发的路由规则 - 触发路由规则后将加载该微应用
    */
   {
-    name: "K8SApplication",
-    entry: "http://localhost:8092",
+    name: "K8SApp",
+    entry: "http://localhost:8094",
     container: "#micotemplate",
-    activeRule: "/k8s",
+    activeRule: "/application/k8s",
   },
   {
-    name: "CMDBApplication",
-    entry: "http://localhost:8093",
+    name: "CMDBApp",
+    entry: "http://localhost:8095",
     container: "#micotemplate",
-    activeRule: "/cmdb",
+    activeRule: "/application/cmdb",
   },
 ];
 

@@ -146,7 +146,7 @@ export default {
         if (this.$route.query && this.$route.query.redirect) {
           this.$router.push({ path: this.$route.query.redirect }, () => {});
         } else {
-          this.$router.push({ name: "basicLayout" }, () => {});
+          this.$router.push({ name: "application" }, () => {});
         }
       }
     },

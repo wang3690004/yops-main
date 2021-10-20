@@ -22,14 +22,12 @@ export const asyncRouterMap = [
     path: "/",
     name: "ContentMinify",
     component: ContentMinify,
-    // redirect: "/k8s",
     meta: { title: "首页", icon: "", permission: ["ADMIN", "STAFF"] },
   },
   {
-    path: "/layout",
-    name: "basicLayout",
+    path: "/application/*",
+    name: "application",
     component: Layout,
-    // redirect: "/k8s",
     meta: { title: "首页", icon: "", permission: ["ADMIN", "STAFF"] },
   },
   // {
