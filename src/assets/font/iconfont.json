@@ -1,0 +1,205 @@
+{
+  "id": "2794463",
+  "name": "运维管理平台-Kubernets 管理与访问",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "运维管理平台-Kubernets 管理与访问 考虑是否需要将多个项目的图片分开 还是将所有图片放到同一个项目里面",
+  "glyphs": [
+    {
+      "icon_id": "629333",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "9790444",
+      "name": "触发配置商标",
+      "font_class": "chufapeizhishangbiao",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "20155157",
+      "name": "触发节点",
+      "font_class": "zu1407",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "9329000",
+      "name": "存储",
+      "font_class": "cunchu",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "14443953",
+      "name": "日志",
+      "font_class": "rizhi",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "21671363",
+      "name": "工作负载",
+      "font_class": "gongzuofuzai",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "1411797",
+      "name": "仪表盘",
+      "font_class": "yibiaopan",
+      "unicode": "e791",
+      "unicode_decimal": 59281
+    },
+    {
+      "icon_id": "1906614",
+      "name": "加速",
+      "font_class": "jiasu",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "5252493",
+      "name": "触发动作",
+      "font_class": "chufadongzuo",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "7609213",
+      "name": "概览",
+      "font_class": "gailan",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "8392140",
+      "name": "节点",
+      "font_class": "jiedian",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "8876992",
+      "name": "fuelFiller_back_home",
+      "font_class": "fuelFiller_back_home",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "9326783",
+      "name": "缩放",
+      "font_class": "suofang",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "9518486",
+      "name": "集群",
+      "font_class": "jiqun",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "12147314",
+      "name": "自定义配置",
+      "font_class": "zidingyipeizhi",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "12219376",
+      "name": "集群列表",
+      "font_class": "jiqunliebiao",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "12418762",
+      "name": "资产管理",
+      "font_class": "zichanguanli",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "13782168",
+      "name": "授权 2",
+      "font_class": "shouquan",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "16267565",
+      "name": "空间",
+      "font_class": "kongjian",
+      "unicode": "e829",
+      "unicode_decimal": 59433
+    },
+    {
+      "icon_id": "19580338",
+      "name": "服 务",
+      "font_class": "fuwu",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "19644665",
+      "name": "命令行",
+      "font_class": "minglinghang",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "21870420",
+      "name": "帮助中心 选中 ",
+      "font_class": "bangzhuzhongxinxuanzhong",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "21944792",
+      "name": "命令行",
+      "font_class": "minglinghang1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "22202149",
+      "name": "监控",
+      "font_class": "jiankong",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "24203861",
+      "name": "组织架构上下拉键",
+      "font_class": "zuzhijiagoushangxialajian",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "9804899",
+      "name": "收 藏",
+      "font_class": "star",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "17199067",
+      "name": "团队成员",
+      "font_class": "tuanduichengyuan",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "21526776",
+      "name": "拖拽",
+      "font_class": "tuozhuai",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
