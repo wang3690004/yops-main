@@ -7,11 +7,12 @@
         <a-divider type="vertical" />
       </p>
       <slot name="nav"></slot>
-      <a-popover :destroyTooltipOnHide="true" trigger="click" placement="rightBottom" overlayClassName="status-popover">
+      <a-popover :destroyTooltipOnHide="true" trigger="click" placement="bottomLeft" overlayClassName="status-popover">
         <template slot="content">
-          <div>Kubernets管理与访问</div>
-          <div>资产管理</div>
-          <div>监控管理</div>
+          <ul>
+            <router-link to="/app/k8s"><li style="cursor: pointer; padding: 8px">Kubernets管理与访问</li></router-link>
+            <router-link to="/app/cmdb"><li style="cursor: pointer; padding: 8px">资产管理</li></router-link>
+          </ul>
         </template>
         <span style="font-size: 15px; cursor: pointer">
           运维管理系统

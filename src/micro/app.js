@@ -9,13 +9,13 @@ const apps = [
     name: "K8SApp",
     entry: "http://localhost:8094",
     container: "#micotemplate",
-    activeRule: "/application/k8s",
+    activeRule: "/app/k8s",
   },
   {
     name: "CMDBApp",
     entry: "http://localhost:8095",
     container: "#micotemplate",
-    activeRule: "/application/cmdb",
+    activeRule: "/app/cmdb",
   },
 ];
 

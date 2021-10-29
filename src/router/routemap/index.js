@@ -25,7 +25,7 @@ export const asyncRouterMap = [
     meta: { title: "首页", icon: "", permission: ["ADMIN", "STAFF"] },
   },
   {
-    path: "/application/*",
+    path: "/app/*",
     name: "application",
     component: Layout,
     meta: { title: "首页", icon: "", permission: ["ADMIN", "STAFF"] },
