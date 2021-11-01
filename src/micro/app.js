@@ -17,6 +17,12 @@ const apps = [
     container: "#micotemplate",
     activeRule: "/app/cmdb",
   },
+  {
+    name: "CMDBApp",
+    entry: "http://localhost:8096",
+    container: "#micotemplate",
+    activeRule: "/app/cmdbs",
+  },
 ];
 
 export default apps;
