@@ -5,7 +5,7 @@ import { registerMicroApps, addGlobalUncaughtErrorHandler, start, initGlobalStat
 // onGlobalStateChange((state, prev) => {
 //   console.log("main-app onglobalstatechange", state, prev);
 // });
-/**
+/**     
  * 注册子应用
  * 第一个参数 - 子应用的注册信息
  * 第二个参数 - 全局生命周期钩子
